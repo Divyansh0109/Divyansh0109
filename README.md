@@ -1,5 +1,5 @@
 # 💫 About Me:
-##👋 Hi, I’m Divyansh Sen<br><br>🎓 I’m a Computer Science Engineering (CSE) student with a growing interest in Frontend Development.<br>🔭 I’m currently working on Wistaar<br>🤝 I’m looking to collaborate on beginner-friendly frontend projects & hackathons<br>🌱 I’m currently learning Frontend Development (React, Tailwind CSS)<br>⚡ Fun fact : Most of my learning happens through trial and error
+#👋 Hi, I’m Divyansh Sen<br><br>🎓 I’m a Computer Science Engineering (CSE) student with a growing interest in Frontend Development.<br>🔭 I’m currently working on Wistaar<br>🤝 I’m looking to collaborate on beginner-friendly frontend projects & hackathons<br>🌱 I’m currently learning Frontend Development (React, Tailwind CSS)<br>⚡ Fun fact : Most of my learning happens through trial and error
 
 
 ## 🌐 Socials:
